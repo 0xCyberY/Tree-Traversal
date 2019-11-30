@@ -1,0 +1,109 @@
+1: Insert 2: PreOrder
+3: PostOrder 4: InOrder 5: Exit
+
+ Enter your choice :1
+
+ Enter the data to be inserted : 27
+1: Insert 2: PreOrder
+3: PostOrder 4: InOrder 5: Exit
+
+ Enter your choice :1
+
+ Enter the data to be inserted : 14
+1: Insert 2: PreOrder
+3: PostOrder 4: InOrder 5: Exit
+
+ Enter your choice :1
+
+ Enter the data to be inserted : 35
+1: Insert 2: PreOrder
+3: PostOrder 4: InOrder 5: Exit
+
+ Enter your choice :1
+
+ Enter the data to be inserted : 10
+1: Insert 2: PreOrder
+3: PostOrder 4: InOrder 5: Exit
+
+ Enter your choice :1
+
+ Enter the data to be inserted : 19
+1: Insert 2: PreOrder
+3: PostOrder 4: InOrder 5: Exit
+
+ Enter your choice :1
+
+ Enter the data to be inserted : 31
+1: Insert 2: PreOrder
+3: PostOrder 4: InOrder 5: Exit
+
+ Enter your choice :1
+
+ Enter the data to be inserted : 42
+1: Insert 2: PreOrder
+3: PostOrder 4: InOrder 5: Exit
+
+ Enter your choice :2
+
+ PreOrder Traversal is :
+
+27
+
+14
+
+10
+
+19
+
+35
+
+31
+
+42
+
+1: Insert 2: PreOrder
+3: PostOrder 4: InOrder 5: Exit
+
+ Enter your choice :3
+
+ PostOrder Traversal is :
+
+10
+
+19
+
+14
+
+31
+
+42
+
+35
+
+27
+
+1: Insert 2: PreOrder
+3: PostOrder 4: InOrder 5: Exit
+
+ Enter your choice :4
+
+ InOrder Traversal is :
+
+10
+
+14
+
+19
+
+27
+
+31
+
+35
+
+42
+
+1: Insert 2: PreOrder
+3: PostOrder 4: InOrder 5: Exit
+
+ Enter your choice :5
